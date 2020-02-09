@@ -35,9 +35,24 @@
       <ProjectState />
     </projectState>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+<<<<<<< HEAD
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+=======
+>>>>>>> services
+>>>>>>> services
   <component name="ProjectId" id="1XXErL2xxaqmpUNLfAzBbO5SzsK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,8 +63,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+<<<<<<< HEAD
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="org.voutixcloud.utils.VoutixCloudKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="VoutixCloud_-_Development.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.voutixcloud.utils.VoutixCloudKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.org.voutixcloud.utils.VoutixCloudKt" />
+      </list>
+    </recent_temporary>
+=======
+>>>>>>> services
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> services
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,18 +106,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581184240540</updated>
+<<<<<<< HEAD
+      <workItem from="1581184254792" duration="1899000" />
+      <workItem from="1581196805559" duration="1831000" />
+      <workItem from="1581249974147" duration="601000" />
+      <workItem from="1581258590041" duration="855000" />
+=======
       <workItem from="1581184254792" duration="740000" />
+<<<<<<< HEAD
       <workItem from="1581191564616" duration="22000" />
+=======
+>>>>>>> services
+>>>>>>> services
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581191564640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581191564640" />
   </component>
+=======
+<<<<<<< HEAD
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1581196925852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581196925852" />
+    <state x="385" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581197003744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1581197003744" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581198187058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581198187058" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581198656129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581198656129" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581198656129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581198656129" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581198656128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581198656128" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581198656129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581198656129" />
+    <state x="160" y="10" width="981" height="810" key="SettingsEditor" timestamp="1581259714106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="10" width="981" height="810" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581259714106" />
+  </component>
+=======
+>>>>>>> services
+>>>>>>> services
 </project>
